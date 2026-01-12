@@ -3,4 +3,7 @@ warrior_affix_list = ['fur', 'tail', 'leg', 'eye',]
 leader_affix = 'star'
 app_affix = 'paw'
 
-warrior_age = (11<k)
+age = '1'
+
+if age < 6
+  print (cat_prefix_list + kit)
