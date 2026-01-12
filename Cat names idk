@@ -1,0 +1,6 @@
+cat_prefix_list = ['long', 'short', 'fluf', 'spot', 'spotted',]
+warrior_affix_list = ['fur', 'tail', 'leg', 'eye',]
+leader_affix = 'star'
+app_affix = 'paw'
+
+warrior_age = (11<k)
